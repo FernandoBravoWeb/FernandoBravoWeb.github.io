@@ -13,8 +13,6 @@
     });
       $('.slider').slider({
                 full_width: true,
-        height : 600, // default - height : 400
         interval: 8000 // default - interval: 6000
       });
-
   });
